@@ -23,7 +23,7 @@ const ProdukTerlaris = () => {
               <div className="mt-3 flex flex-col gap-1">
                 <Link to={`/product/1`}>
                   <h4 className="text-xl font-bold">
-                    Jaker Informatika
+                    Jaket Himpunan
                   </h4>
                 </Link>
                 <div className="flex gap-1 items-center">

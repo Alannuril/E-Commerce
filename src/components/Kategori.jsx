@@ -17,8 +17,8 @@ const Kategori = () => {
                 alt="dress image 1"
                 className="rounded-[20px] w-full h-full object-cover"
               />
-              <span className="text-4xl font-bold  absolute top-5 left-7">
-                Casual
+              <span className="text-4xl text-white font-bold  absolute top-5 left-7 [text-shadow:2px_2px_4px_rgba(0,0,0,0.5)]">
+                Cat
               </span>
             </figure>
             <figure className="relative min-w-[60%] h-[289px] max-lg:w-full">
@@ -27,8 +27,8 @@ const Kategori = () => {
                 alt="dress image 2"
                 className="rounded-[20px] w-full h-full object-cover"
               />
-              <span className="text-4xl font-bold absolute top-5 left-7">
-                Formal
+              <span className="text-4xl text-white font-bold absolute top-5 left-7 [text-shadow:2px_2px_4px_rgba(0,0,0,0.5)]">
+                Fashion
               </span>
             </figure>
           </div>
@@ -39,8 +39,8 @@ const Kategori = () => {
                 alt="dress image 3"
                 className="rounded-[20px] w-full h-full object-cover"
               />
-              <span className="text-4xl font-bold absolute top-5 left-7">
-                Party
+              <span className="text-4xl text-white font-bold absolute top-5 left-7 [text-shadow:2px_2px_4px_rgba(0,0,0,0.5)]">
+                Gym
               </span>
             </figure>
             <figure className="relative md:min-w-[30%] xl:min-w-[38%] 2xl:min-w-[39%] h-[289px] max-lg:w-full bg-white rounded-[20px]">
@@ -49,8 +49,8 @@ const Kategori = () => {
                 alt="dress image 4"
                 className="rounded-[20px] w-full h-full object-cover"
               />
-              <span className="text-4xl font-bold absolute top-5 left-7">
-                Gym
+              <span className="text-4xl text-white font-bold absolute top-5 left-7 [text-shadow:2px_2px_4px_rgba(0,0,0,0.5)]">
+                Furniture
               </span>
             </figure>
           </div>
