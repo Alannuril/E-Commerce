@@ -18,7 +18,7 @@ const Kategori = () => {
                 className="rounded-[20px] w-full h-full object-cover"
               />
               <span className="text-4xl text-white font-bold  absolute top-5 left-7 [text-shadow:2px_2px_4px_rgba(0,0,0,0.5)]">
-                Cat
+                Makeup
               </span>
             </figure>
             <figure className="relative min-w-[60%] h-[289px] max-lg:w-full">
